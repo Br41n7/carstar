@@ -1,0 +1,6 @@
+{
+  "name": "Car Dealer Management System",
+  "description": "An enterprise-grade Car Dealer Management System with vehicle inventory tracking, purchasing, sales, CRM, test drive scheduling, workshop maintenance, financing, and accounting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
